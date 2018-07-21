@@ -1,6 +1,6 @@
 {
-  "name": "ionic3-radio",
-  "app_id": "",
+  "name": "radioApp",
+  "app_id": "65fd01ca",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
